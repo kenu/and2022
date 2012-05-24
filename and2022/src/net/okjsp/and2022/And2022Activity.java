@@ -14,5 +14,6 @@ public class And2022Activity extends Activity {
         setContentView(R.layout.main);
         
         // written by app2apps
+        // direct parkgy
     }
 }
